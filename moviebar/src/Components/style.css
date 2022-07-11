@@ -1,0 +1,24 @@
+.heading{
+    font-size: 30px;
+  font-weight:400;
+  padding:"5px";
+  color: red;
+  margin: 8px;
+  border: 1px solid beige;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: 40px;
+};
+LoginButton{
+
+font-size:"26px";
+  font-weight:400;
+  padding:"5px";
+  color: black;
+  margin: 8px;
+  height: 22px;
+  width: max-width;
+  border: 2px solid grey;
+}
